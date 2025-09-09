@@ -1,0 +1,14 @@
+streamlit
+chromadb
+huggingface-hub
+google-generativeai
+groq
+pillow
+numpy
+pandas
+pdfplumber
+pytesseract
+easyocr
+pymupdf
+requests
+python-dotenv
